@@ -4,3 +4,4 @@ i sama analiza sa hipotezama koje sam dokazao ili opovrgnuo. Korišćen je softv
 napisane su 2 skripte odvojeno koje komuniciraju sa datasetom. U prvoj skripti smo importovali fajlove(tabele, csv format)
 Zatim kolone i tabele su transformisane i prilagodjene za analizu. U skripti analiza radimo visualizaciju samih podataka
 dajemo pretpostavke (HIPOTEZE) koje ćemo dokazati ili opovrgnuti. Poredimo 2 dataseta i njihovu korelaciju
+Korišten je naravno python programski jezik, a u okviru njega sve pomoćne biblioteke za analizu i obradu podataka kao i ugrađene funkcije 
